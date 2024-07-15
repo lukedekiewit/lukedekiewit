@@ -1,7 +1,7 @@
 [![LukeDeKiewit](https://lukedekiewit.co.za/ldk_floating_glitchy_animated_logo_hxd_final.png)](https://lukedekiewit.co.za/)
 
 # About Me:
-Front-End Developer from South Africa 🇿🇦
+Front-End Developer from South Africa.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit)
