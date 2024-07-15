@@ -1,4 +1,4 @@
-[![Bitcube](https://bitcube.tech/wp-content/themes/bitcube_theme/images/layout/logo-2.png)](https://bitcube.tech/)
+[![LukeDeKiewit](https://lukedekiewit.co.za/ldk_floating_glitchy_animated_logo_hxd_final.png)](https://lukedekiewit.co.za/)
 
 # About Me:
 Front-End Developer from South Africa 🇿🇦
@@ -31,7 +31,3 @@ Front-End Developer from South Africa 🇿🇦
 # GitHub Stats (Personal):
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lukedekiewit&theme=dark&hide_border=false)
-
-# GitHub Stats (Bitcube):
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LukeDeKiewitBitcube&theme=dark&hide_border=false)<br/>
