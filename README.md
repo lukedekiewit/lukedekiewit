@@ -5,6 +5,7 @@ Front-End Developer from South Africa.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit)
+[![Bitcube GitHub Profile](https://img.shields.io/badge/Bitcube%20GitHub%20Profile-2f2f32)]([https://github.com/lukedekiewit](https://github.com/LukeDeKiewitBitcube))
 
 
 # Tech Stack:
