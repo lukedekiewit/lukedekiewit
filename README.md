@@ -31,8 +31,8 @@ Front-End Developer from South Africa.
 
 # GitHub Stats (Personal):
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lukedekiewit&theme=dark&hide_border=false)
+![lukedekiewit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukedekiewit&theme=vue-dark&hide_border=true)
 
 # GitHub Stats (Bitcube):
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=LukeDeKiewitBitcube&theme=dark&hide_border=false)
+![lukedekiewit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LukeDeKiewitBitcube&theme=vue-dark&hide_border=true)
