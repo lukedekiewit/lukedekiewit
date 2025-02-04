@@ -1,4 +1,4 @@
-[![LukeDeKiewit](https://lukedekiewit.co.za/ldk_floating_glitchy_animated_logo_hxd_final.png)](https://lukedekiewit.co.za/)
+<img src="https://github.com/user-attachments/assets/5cc72c67-5c4e-4361-a43b-deb67b3fdc11" alt="" width="100%" />
 
 # About Me:
 Front-End Developer from South Africa.
@@ -36,3 +36,5 @@ Front-End Developer from South Africa.
 # GitHub Stats (Bitcube):
 
 ![lukedekiewit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LukeDeKiewitBitcube&theme=vue-dark&hide_border=true)
+
+[![LukeDeKiewit](https://lukedekiewit.co.za/ldk_floating_glitchy_animated_logo_hxd_final.png)](https://lukedekiewit.co.za/)
