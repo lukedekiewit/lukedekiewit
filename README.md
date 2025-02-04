@@ -1,4 +1,4 @@
-<a href="https://lukedekiewit.co.za/" target="_blank">
+<a href="https://lukedekiewit.co.za/">
 <img src="https://github.com/user-attachments/assets/5cc72c67-5c4e-4361-a43b-deb67b3fdc11" alt="" width="100%" />
 </a>
 
