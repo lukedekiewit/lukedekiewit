@@ -2,15 +2,15 @@
 <img src="https://github.com/user-attachments/assets/5cc72c67-5c4e-4361-a43b-deb67b3fdc11" alt="" width="100%" />
 </a>
 
-# About Me:
+# About
 Front-End Developer from South Africa.
 
-# Socials:
+# Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit)
 [![Bitcube GitHub Profile](https://img.shields.io/badge/Bitcube%20GitHub%20Profile-2f2f32)](https://github.com/LukeDeKiewitBitcube)
 
 
-# Tech Stack:
+# Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
