@@ -3,6 +3,8 @@
 </a>
 
 # About
+<img src="https://github.com/user-attachments/assets/9464abe8-9c0c-40ee-b910-eb3013b993ea" alt="" width="200" height="200" />
+
 Front-End Developer from South Africa.
 
 # Socials
@@ -29,14 +31,4 @@ Front-End Developer from South Africa.
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-# GitHub Stats (Personal):
-
-![lukedekiewit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukedekiewit&theme=vue-dark&hide_border=true)
-
-# GitHub Stats (Bitcube):
-
-![lukedekiewit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LukeDeKiewitBitcube&theme=vue-dark&hide_border=true)
-
-[![LukeDeKiewit](https://lukedekiewit.co.za/ldk_floating_glitchy_animated_logo_hxd_final.png)](https://lukedekiewit.co.za/)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
