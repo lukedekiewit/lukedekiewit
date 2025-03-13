@@ -1,5 +1,5 @@
 <a href="https://lukedekiewit.co.za/">
-<img src="https://github.com/user-attachments/assets/5cc72c67-5c4e-4361-a43b-deb67b3fdc11" alt="" width="100%" />
+<img src="https://github.com/user-attachments/assets/e90cb7ee-e2e7-4ca9-a01e-49674bb7b9e1" alt="" width="100%" />
 </a>
 
 # About
