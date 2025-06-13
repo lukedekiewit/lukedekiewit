@@ -3,7 +3,7 @@
 </a>
 
 # About
-<img src="https://github.com/user-attachments/assets/9464abe8-9c0c-40ee-b910-eb3013b993ea" alt="" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="" width="180" height="180" />
 
 Front-End Developer from South Africa.
 
