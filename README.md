@@ -1,7 +1,6 @@
-<code>
 <div align="center">
-<h1>
-<b>WELCOME TO MY PROFILE!</b>
+<h1 style="color: red;" >
+WELCOME TO MY PROFILE!
 </h1>
 </div>
 <div align="center">
@@ -43,4 +42,3 @@ Front-End Developer from South Africa.
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</code>
