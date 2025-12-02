@@ -24,14 +24,20 @@ Front-End Developer from South Africa. 🇿🇦
 
 <div align="center"> 
 <h2>Socials</h2>
-<div> 
+
+<div>
+
+<div>
 <a href="https://linkedin.com/in/lukedekiewit" target="_blank">
+
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn profile badge" />
 </a>
-
+</div>
+<div>
 <a href="https://linkedin.com/in/lukedekiewit" target="_blank">
 <img src="https://img.shields.io/badge/Bitcube%20GitHub%20Profile-2f2f32" alt="Luke De Kiewit GitHub profile badge" />
 </a>
+</div>
 </div>
 </div>
 
