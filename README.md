@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-WELCOME TO MY PROFILE!
+Howzit. Welcome to my profile!
 </h1>
 </div>
 
