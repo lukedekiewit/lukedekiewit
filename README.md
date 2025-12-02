@@ -1,12 +1,14 @@
-<div align="center" >
+<div align="center">
 <a href="https://lukedekiewit.co.za" target="_blank" >
 <img src="https://github.com/user-attachments/assets/e90cb7ee-e2e7-4ca9-a01e-49674bb7b9e1" alt="Luke De Kiewit GitHub profile header" width="900" height="200"/>
 </a>
 </div>
 
 # About
-<img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="" width="180" height="180" />
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="256" height="256" />
+</div>
 Front-End Developer from South Africa.
 
 # Socials
