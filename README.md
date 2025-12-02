@@ -1,7 +1,9 @@
 <div align="center">
+<b>
 <h1>
 <b>**WELCOME TO MY PROFILE!**</b>
 </h1>
+</b>
 </div>
 <div align="center">
 <a href="https://lukedekiewit.co.za" target="_blank">
