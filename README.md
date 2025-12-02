@@ -21,19 +21,18 @@ Hi. Welcome to my profile! 👋
 Front-End Developer from South Africa. 🇿🇦
 </div>
 </div>
+
 <div align="center"> 
 <h2>Socials</h2>
 <div> 
 <a href="https://linkedin.com/in/lukedekiewit" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn profile badge" />
 </a>
+<a href="https://linkedin.com/in/lukedekiewit" target="_blank">
+<img src="https://img.shields.io/badge/Bitcube%20GitHub%20Profile-2f2f32" alt="Luke De Kiewit GitHub profile badge" />
+</a>
 </div>
 </div>
-
-# Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit)
-[![Bitcube GitHub Profile](https://img.shields.io/badge/Bitcube%20GitHub%20Profile-2f2f32)](https://github.com/LukeDeKiewitBitcube)
-
 
 # Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
