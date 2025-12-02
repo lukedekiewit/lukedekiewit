@@ -1,6 +1,7 @@
 <div align="center" >
-(<img src="https://github.com/user-attachments/assets/e90cb7ee-e2e7-4ca9-a01e-49674bb7b9e1" alt="Luke De Kiewit GitHub profile header" width="100%" />) 
-[https://lukedekiewit.co.za/]
+<a href="https://lukedekiewit.co.za" target="_blank" >
+<img src="https://github.com/user-attachments/assets/e90cb7ee-e2e7-4ca9-a01e-49674bb7b9e1" alt="Luke De Kiewit GitHub profile header" width="100%" />
+</a>
 </div>
 
 # About
