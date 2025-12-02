@@ -1,10 +1,10 @@
 <div align="center">
-<h2>
-LUKE DE KIEWIT
-</h2>
 <h1>
-Hi. Welcome to my profile! 👋
+LUKE DE KIEWIT
 </h1>
+<h2>
+Hi. Welcome to my profile! 👋
+</h2>
 </div>
 
 <div align="center">
