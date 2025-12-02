@@ -10,7 +10,9 @@ WELCOME TO MY PROFILE!
 </div>
 <br/>
 <div align="center">
+<h2>
 <img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="256" height="256" />
+</h2>
 <div align="center">
 Front-End Developer from South Africa.
 </div>
