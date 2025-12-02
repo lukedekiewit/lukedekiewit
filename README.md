@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="center" >
-# ABOUT
+# ABOUT <h1>Gwarra</h1>
 </div>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="256" height="256" />
