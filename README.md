@@ -4,10 +4,8 @@ WELCOME TO MY PROFILE!
 </h1>
 </div>
 <div align="center">
-<a href="https://lukedekiewit.co.za" target="_blank" >
-<h2>
+<a href="https://lukedekiewit.co.za" target="_blank">
 <img src="https://github.com/user-attachments/assets/e90cb7ee-e2e7-4ca9-a01e-49674bb7b9e1" alt="Luke De Kiewit GitHub profile header" width="900" height="200"/>
-</h2>
 </a>
 </div>
 <br/>
