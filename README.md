@@ -11,13 +11,12 @@ WELCOME TO MY PROFILE!
 </a>
 </div>
 <br/>
-<div align="center" >
-# ABOUT <h1>Gwarra</h1>
-</div>
 <div align="center">
+<h2>
 <img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="256" height="256" />
-</div>
+</h2>
 Front-End Developer from South Africa.
+</div>
 
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukedekiewit)
