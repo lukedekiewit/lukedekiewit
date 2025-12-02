@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-Howzit. Welcome to my profile!
+Hi. Welcome to my profile! 👋
 </h1>
 </div>
 
@@ -16,7 +16,7 @@ Howzit. Welcome to my profile!
 <img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="256" height="256" />
 </h2>
 <div align="center">
-Front-End Developer from South Africa.
+Front-End Developer from South Africa. 🇿🇦
 </div>
 </div>
 
