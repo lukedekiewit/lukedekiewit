@@ -50,8 +50,11 @@
 <div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=lukedekiewit&theme=dark&hide_border=false" alt="Luke De Kiewit's GitHub Stats">
 </div>
-<br>
+<div align="center">
+<div align="center">
+<h2><strong>COMING SOON<sup>TM</sup></strong></h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/lukedekiewit/lukedekiewit/refs/heads/main/images/logos/atomwave_animated_logo.png" height="72"  width="72" alt="Atomwave component library animated logo">
+<h3>ATOMWAVE COMPONENT LIBRARY</h3>
 </div>
 </div>
