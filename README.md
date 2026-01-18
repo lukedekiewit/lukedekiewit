@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="96" height="96" />
+<img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="128" height="128" />
 </div>
 <div align="center">
-<h1>Welcome to my profile 👋</h1>
+<h1>WELCOME TO MY PROFILE 👋</h1>
 </div>
 <div align="center">
 <a href="https://lukedekiewit.co.za" target="_blank">
