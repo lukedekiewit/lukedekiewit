@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="128" height="128" />
 </div>
 <div align="center">
-<h1>WELCOME TO MY PROFILE 👋</h1>
+<h1><strong>WELCOME TO MY PROFILE</strong></h1>
 </div>
 <div align="center">
 <a href="https://lukedekiewit.co.za" target="_blank">
@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<h2>TECH STACK</h1>
+<h2><strong>TECH STACK</strong></h1>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-<h2>GITHUB STATS</h1>
+<h2><strong>GITHUB STATS</strong></h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lukedekiewit&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="Luke De Kiewit's GitHub Stats">
 </div>
