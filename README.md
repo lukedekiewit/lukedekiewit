@@ -10,11 +10,10 @@
 </a>
 </div>
 <br>
-```html
+
 <div align="center">
 <p>Front-End Developer based in South Africa. I specialise in engineering high-quality front-end systems, websites and UI libraries. My goal is to maximise performance, accessibility, code and best practices to deliver an exceptional user experience.</p>
 </div>
-```
 
 <div align="center">
 <h2><strong>TECH STACK</strong></h1>
