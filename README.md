@@ -56,6 +56,6 @@
 <div align="center">
 <br>
 <img src="https://raw.githubusercontent.com/lukedekiewit/lukedekiewit/refs/heads/main/images/logos/atomwave_animated_logo.png" height="96"  width="96" alt="Atomwave component library animated logo">
-<h3><strong><sup>ATOMWAVE COMPONENT LIBRARY</sup></strong></h3>
+<h3><strong>ATOMWAVE COMPONENT LIBRARY</strong></h3>
 </div>
 </div>
