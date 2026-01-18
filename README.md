@@ -40,5 +40,6 @@ Front-End Developer from South Africa. 🇿🇦
 </div>
 </div>
 </div>
-
-![lukedekiewit's Stats](https://github-readme-stats.vercel.app/api?username=lukedekiewit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![lukedekiewit's Stats](https://github-readme-stats.vercel.app/api?username=lukedekiewit&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![lukedekiewit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukedekiewit&theme=vue-dark&hide_border=false)
+![lukedekiewit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukedekiewit&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
