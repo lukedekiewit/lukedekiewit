@@ -51,6 +51,5 @@
 </div>
 
 <div align="center">
-<br>
 <img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="96" height="96" />
 </div>
