@@ -1,7 +1,9 @@
 <div align="center">
+<img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="96" height="96" />
+</div>
+<div align="center">
 <h1>Welcome to my profile 👋</h1>
 </div>
-
 <div align="center">
 <a href="https://lukedekiewit.co.za" target="_blank">
 <img src="https://github.com/user-attachments/assets/e90cb7ee-e2e7-4ca9-a01e-49674bb7b9e1" alt="Luke De Kiewit GitHub profile header"/>
@@ -47,8 +49,4 @@
 <div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=lukedekiewit&theme=dark&hide_border=false" alt="Luke De Kiewit's GitHub Stats">
 </div>
-</div>
-<br>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="96" height="96" />
 </div>
