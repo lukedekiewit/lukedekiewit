@@ -48,6 +48,7 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=lukedekiewit&theme=dark&hide_border=false" alt="Luke De Kiewit's GitHub Stats">
 </div>
 </div>
+<hr>
 <br>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="96" height="96" />
