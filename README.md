@@ -1,5 +1,5 @@
 <div align="center">
-<h1><strong>WELCOME TO MY PROFILE</strong></h1>
+<h1><strong>WELCOME TO MY PROFILE 👋</strong></h1>
 </div>
 <div align="center">
 <a href="https://lukedekiewit.co.za" target="_blank">
