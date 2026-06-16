@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-<p>Front-End Developer based in South Africa. I specialise in engineering high-quality front-end systems, websites and UI libraries. My goal is to maximise performance, accessibility, code and best practices to deliver an exceptional user experience.</p>
+<p>I specialise in engineering frontend systems and UI libraries with a commitment to accessibility and code quality. I have a proven track record of building at scale, including platforms for 200,000+ users, frontend solutions for the maritime and renewable energy sectors, and storefronts for high-profile UK, EU and US clients. I integrate AI-augmented workflows into my development process to accelerate delivery while maintaining strict engineering standards.</p>
 </div>
 
 <div align="center">
@@ -46,13 +46,4 @@
 <br>
 <div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=lukedekiewit&theme=dark&hide_border=false" alt="Luke De Kiewit's GitHub Stats">
-</div>
-<div align="center">
-<div align="center">
-<h2><strong>COMING SOON</strong></h1>
-<div align="center">
-<br>
-<img src="https://raw.githubusercontent.com/lukedekiewit/lukedekiewit/refs/heads/main/images/logos/atomwave_animated_logo.png" height="96"  width="96" alt="Atomwave component library animated logo">
-<h3><strong>ATOMWAVE COMPONENT LIBRARY</strong></h3>
-</div>
 </div>
