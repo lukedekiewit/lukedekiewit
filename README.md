@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6389497d-9109-4516-a32a-3858d06e4fa5" alt="Luke De Kiewit animated logo" width="128" height="128" />
-</div>
-<div align="center">
 <h1><strong>WELCOME TO MY PROFILE</strong></h1>
 </div>
 <div align="center">
