@@ -6,11 +6,6 @@
 <img src="https://github.com/user-attachments/assets/e90cb7ee-e2e7-4ca9-a01e-49674bb7b9e1" alt="Luke De Kiewit GitHub profile header"/>
 </a>
 </div>
-<br>
-
-<div align="center">
-<p>I specialise in engineering frontend systems and UI libraries with a commitment to accessibility and code quality. I have a proven track record of building at scale, including platforms for 200,000+ users, frontend solutions for the maritime and renewable energy sectors, and storefronts for high-profile UK, EU and US clients. I integrate AI-augmented workflows into my development process to accelerate delivery while maintaining strict engineering standards.</p>
-</div>
 
 <div align="center">
 <h2><strong>TECH STACK</strong></h1>
