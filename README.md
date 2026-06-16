@@ -37,13 +37,3 @@
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp">
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects">
 </div>
-
-<div align="center">
-<h2><strong>GITHUB STATS</strong></h1>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lukedekiewit&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="Luke De Kiewit's GitHub Stats">
-</div>
-<br>
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=lukedekiewit&theme=dark&hide_border=false" alt="Luke De Kiewit's GitHub Stats">
-</div>
